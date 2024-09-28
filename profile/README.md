@@ -1,12 +1,13 @@
-## Hi there 👋
+# Student Organization for Aerospace Research
 
-<!--
+This Organization will host all SOAR programs.
 
-**Here are some ideas to get you started:**
+# General Github Usage Guidelines
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+1. Reach out to the software executive team if you would like to add a new repository.
+2. All repositories and relevant folders should have a good descritpive README that uses the following template. You have freedom to edit as required as long as its sensible. <a href="https://github.com/UCSOAR/TemplateRepository/blob/master/README.md" target="_blank">README Template</a>
+3. Branch names should be Name/ProjectDescr
+4. Have short but descriptive commit messages. Every commit should have a short straightforward message that will inform third parties clearly on the intention of that commit
+5. ALL Pull Requests must follow the guidelines in the following <a href="https://docs.google.com/document/d/1gK7U7JyYIshEkUTerLHe_wzck6jy2xmAXTzNXDz3xdQ/edit" target="_blank">Pull Requests Guide</a>
+6. Just keep good organization on your mind all the time
+7. Github Guide <a href="https://docs.google.com/document/d/1d9vX7qOhwl5sKVMaC0NQqCqidDwsqfF1K62peDyTEsM/edit" target="_blank">Pull Requests Guide</a>
