@@ -21,6 +21,9 @@ To be able to commit code on this repository you will need clang and pre-commit 
 ### Windows
 
 1. Download <a href="https://github.com/llvm/llvm-project/releases/download/llvmorg-18.1.8/LLVM-18.1.8-win64.exe" target="_blank">LLVM-18.1.8-win64.exe</a>
+2. Make sure to add it to your path in the setup menu
+
+![Clang Format Download Setup](./pictures/WindowsClangSetup.png)
 
 ### Mac
 
@@ -28,5 +31,5 @@ To be able to commit code on this repository you will need clang and pre-commit 
 
 ## Pre-commit Setup
 
-1. Run ```pip install pre-commit``
+1. Run ```pip install pre-commit```
 2. At the root of all your repositories run ```pre-commit install```
