@@ -2,6 +2,16 @@
 
 This Organization will host all SOAR programs.
 
+# Reccomended Workflow
+
+Use the following steps when trying to contribute to this organization. Please read the [General Github Usage Guidelines](#General-Github-Usage-Guidelines) section for detailed infromation on these steps.
+
+1. Clone the repository
+2. Create a branch
+3. Commit your work
+4. Create a Pull Request (PR) when you are ready to merge it into the master branch
+5. Get the PR code reviewed and then Squash and Merge it.
+
 # General Github Usage Guidelines
 
 1. Reach out to the software executive team if you would like to add a new repository.
@@ -9,8 +19,8 @@ This Organization will host all SOAR programs.
 3. Branch names should be Name/ProjectDescr
 4. Have short but descriptive commit messages. Every commit should have a short straightforward message that will inform third parties clearly on the intention of that commit
 5. ALL Pull Requests must follow the guidelines in the following <a href="https://docs.google.com/document/d/1gK7U7JyYIshEkUTerLHe_wzck6jy2xmAXTzNXDz3xdQ/edit" target="_blank">Pull Requests Guide</a>
-6. Just keep good organization on your mind all the time
-7. Github Guide <a href="https://docs.google.com/document/d/1d9vX7qOhwl5sKVMaC0NQqCqidDwsqfF1K62peDyTEsM/edit?usp=sharing" target="_blank">SOAR Github Guide</a>
+6. Github Guide <a href="https://docs.google.com/document/d/1d9vX7qOhwl5sKVMaC0NQqCqidDwsqfF1K62peDyTEsM/edit?usp=sharing" target="_blank">SOAR Github Guide</a>
+7. Just keep good organization on your mind all the time
 
 # Setup
 
