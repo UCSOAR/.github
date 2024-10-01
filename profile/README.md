@@ -10,4 +10,4 @@ This Organization will host all SOAR programs.
 4. Have short but descriptive commit messages. Every commit should have a short straightforward message that will inform third parties clearly on the intention of that commit
 5. ALL Pull Requests must follow the guidelines in the following <a href="https://docs.google.com/document/d/1gK7U7JyYIshEkUTerLHe_wzck6jy2xmAXTzNXDz3xdQ/edit" target="_blank">Pull Requests Guide</a>
 6. Just keep good organization on your mind all the time
-7. Github Guide <a href="https://docs.google.com/document/d/1d9vX7qOhwl5sKVMaC0NQqCqidDwsqfF1K62peDyTEsM/edit" target="_blank">Pull Requests Guide</a>
+7. Github Guide <a href="https://docs.google.com/document/d/1d9vX7qOhwl5sKVMaC0NQqCqidDwsqfF1K62peDyTEsM/edit?usp=sharing" target="_blank">SOAR Github Guide</a>
