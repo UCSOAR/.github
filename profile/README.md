@@ -11,3 +11,22 @@ This Organization will host all SOAR programs.
 5. ALL Pull Requests must follow the guidelines in the following <a href="https://docs.google.com/document/d/1gK7U7JyYIshEkUTerLHe_wzck6jy2xmAXTzNXDz3xdQ/edit" target="_blank">Pull Requests Guide</a>
 6. Just keep good organization on your mind all the time
 7. Github Guide <a href="https://docs.google.com/document/d/1d9vX7qOhwl5sKVMaC0NQqCqidDwsqfF1K62peDyTEsM/edit?usp=sharing" target="_blank">SOAR Github Guide</a>
+
+# Setup
+
+To be able to commit code on this repository you will need clang and pre-commit setup on your computer.
+
+## Clang Setup
+
+### Windows
+
+1. Download <a href="https://github.com/llvm/llvm-project/releases/download/llvmorg-18.1.8/LLVM-18.1.8-win64.exe" target="_blank">LLVM-18.1.8-win64.exe</a>
+
+### Mac
+
+@EtSubas please complete this section
+
+## Pre-commit Setup
+
+1. Run ```pip install pre-commit``
+2. At the root of all your repositories run ```pre-commit install```
