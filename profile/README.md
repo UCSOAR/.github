@@ -2,7 +2,7 @@
 
 This Organization will host all SOAR programs.
 
-# Reccomended Workflow
+# Recommended Workflow
 
 Use the following steps when trying to contribute to this organization. Please read the [General Github Usage Guidelines](#General-Github-Usage-Guidelines) section for detailed infromation on these steps.
 
@@ -39,7 +39,28 @@ To be able to commit code on this repository you will need clang and pre-commit 
 
 @EtSubas please complete this section
 
-## Pre-commit Setup
+### Linux (Debian Based)
+
+Install `clang-format` from **apt** with:
+```bash
+sudo apt-get install clang-format
+```
+
+Run:
+```bash
+clang-format --version
+```
+to ensure successful installation.
+
+## Pre-commit
+
+### Setup
 
 1. Run ```pip install pre-commit```
 2. At the root of all your repositories run ```pre-commit install```
+
+### Troubleshooting
+
+ - `MODULE_NOT_FOUND` node error after attempting to commit
+    - Completely removing `node`, `nodejs`, and `npm` resolved the issue on **Ubuntu**
+
